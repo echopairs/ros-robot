@@ -8,6 +8,8 @@
 
 [3.3 ros connection层源码阅读](http://note.youdao.com/noteshare?id=1659dfe00bb69efcbaa62be6294d1e05&sub=3FCF8336B263435C86042BA1F7598458)
 
+[3.4 entend link层源码阅读](https://github.com/echopairs/ros-robot/blob/master/ros-source-code-read/3.4%20entend%20link%E5%B1%82%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.md)
+
 **该层的作用:**
 1. 封装系统网络操作的api屏蔽不同的通信协议(UDP/TCP)
 2. 对上层提供读写操作的接口
