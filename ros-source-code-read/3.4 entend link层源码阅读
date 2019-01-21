@@ -1,0 +1,15 @@
+## 本文主要内容
+- [ ] link层的作用和说明
+- [ ] Link层源码阅读
+
+
+## link层的作用和说明
+
+link为上层应用层和connection层的代理。生成用来处理和对端的连接和数据报文的收发。
+
+**类说明图**
+![image](https://github.com/echopairs/blog/blob/master/pic/ros/link_object.png?raw=true)
+
+**源码阅读**
+
+分散在4/5文档中
